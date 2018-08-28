@@ -1,6 +1,6 @@
 # dataExploration_exercises
 
-This ia a script from my course Data Exploration exercises.
+This is a script from my course Data Exploration exercises.
 
 In this project I was aimed to analyze given data sets: for differnet car types and flower species.
 
